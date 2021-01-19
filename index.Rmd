@@ -1,5 +1,6 @@
 ---
   title: "Advanced Business Analytics"
 ---
-  
-  Hello, I will be posting my projects here. 
+## C01
+
+<script src="https://gist.github.com/shwarajtuse/8656b44a13360ff93a2bd11dac5777bd.js"></script>
