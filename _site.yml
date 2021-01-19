@@ -3,7 +3,9 @@ output_dir: "."
 navbar:
   title: "Shwaraj Tuse"
   left:
-  - text: "Home"
+  - text: "Classwork"
     href: index.html
+  - text: "Assignments"
+    href: assignment.html
   - text: "About"
     href: about.html
