@@ -1,6 +1,10 @@
 ---
   title: "Advanced Business Analytics"
 ---
+## C04
+
+<script src="https://gist.github.com/shwarajtuse/ab022d8b6c7693d2857734f02bc86488.js"></script>
+
 ## C02
 
 <script src="https://gist.github.com/shwarajtuse/9bb4930a55edc332fd760b613e9ce151.js"></script>
